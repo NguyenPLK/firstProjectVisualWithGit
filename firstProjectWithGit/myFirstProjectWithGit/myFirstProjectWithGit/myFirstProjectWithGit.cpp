@@ -9,8 +9,9 @@ int main()
     cout << "Hello World!\n";
     cout << "HELLO ALL MY FRIENDS !";
 
-    for (i = 0; i < 9, i++) {
+    for (int i = 0; i < 9; i++) {
         cout << "NGUYEN IS THE BEST ! \n";
+
     }
 }
 
